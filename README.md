@@ -20,7 +20,7 @@ Créez un fichier HTML et un Fichier CSS, faites comme d'hab.
         1. Créez un élément div,
         2. Attribuez lui une taille de 200px de large et de haut,
         3. Attribuez lui une bordure,
-        4. Faites lui effectuer une rotation négative de 35 degrés.
+        4. Faites lui effectuer une translation négative de 35 degrés.
         5. A l'aide d'un autre div, démontrez que le premier a bel et bien fait l'objet d'une translation.
            Utilisez les règles CSS qui vont bien ;-)
 
